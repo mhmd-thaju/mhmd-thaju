@@ -57,8 +57,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmd-thaju&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-thaju&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 📬 Connect With Me
 <p>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mhmd-thaju/">linkedin.com/in/mhmd-thaju</a> <br/>
-  <b>Email:</b> your-email-here
+  <b>Email:</b> mhmd.thajudheen21@gmail.com
 </p>
 
 <p align="center">✨ Thanks for visiting! Have a great day! ✨</p>
