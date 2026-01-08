@@ -8,8 +8,7 @@
 
 ## 🌟 About Me
 - 💻 I’m currently learning and working with **React, JavaScript, Node.js**  
-- 🔐 Interested in **Blockchain development & Web3 concepts**  
-- 🏗️ Building a **billing and inventory management system** for a pastry shop  
+- 🔐 Interested in **Blockchain development & Web3 concepts**    
 - 📘 Studying topics like **Computer Networks, NLP, Web Technologies**  
 - 🎯 Goal: Become a **full-stack developer** with strong problem-solving skills  
 
